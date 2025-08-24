@@ -1,4 +1,4 @@
-FROM python:3.10.8-slim-buster
+FROM python:3.12-slim-bookworm
 
 # Change to a more modern base image to avoid apt errors
 # FROM python:3.12-slim-bookworm
@@ -18,3 +18,4 @@ COPY . .
 # Run your bot as the main process.
 # Remove gunicorn if your bot doesn't need a web interface.
 CMD ["python3", "main.py"]
+
