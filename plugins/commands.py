@@ -26,7 +26,7 @@ main_buttons = [[
     InlineKeyboardButton('🔍 sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ', url='https://t.me/+VGjgduJq3chkYmI0'),
     InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/Ghost_protocols')
 ],[
-    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@Tech_VJ')
+    InlineKeyboardButton('💝 sᴜʙsᴄʀɪʙᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ', url='https://youtube.com/@ethicalakash1')
 ],[
     InlineKeyboardButton('👨‍💻 ʜᴇʟᴘ', callback_data='help'),
     InlineKeyboardButton('💁 ᴀʙᴏᴜᴛ', callback_data='about')
